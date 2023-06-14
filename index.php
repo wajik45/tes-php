@@ -14,5 +14,8 @@ function sayHello($nama, $alamat) {
 <body>
     <h1><?php echo sayHello('Udin', 'Lengkong'); ?></h1>
     <p>Lorem</p>
+    <ul>
+        <li>ok</li>
+    </ul>
 </body>
 </html>
