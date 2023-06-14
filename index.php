@@ -10,6 +10,7 @@ function sayHello($nama, $alamat) {
 <html>
 <head>
     <title>PHP DIKIT</title>
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     <h1><?php echo sayHello('Udin', 'Lengkong'); ?></h1>
