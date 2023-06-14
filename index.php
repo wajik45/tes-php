@@ -13,5 +13,6 @@ function sayHello($nama, $alamat) {
 </head>
 <body>
     <h1><?php echo sayHello('Udin', 'Lengkong'); ?></h1>
+    <p>Lorem</p>
 </body>
 </html>
